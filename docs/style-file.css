@@ -1,1 +1,19 @@
+:root {
+    --highlight-color: red;
+}
 
+.highlight {
+    color: var(--highlight-color);
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.underline {
+    text-decoration: underline; 
+}
+
+.bold{
+    font-weight: bold;
+}
